@@ -9,7 +9,13 @@ There are two versions:
 * **The Basic**: If you want something small just copy [basic.vim](https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim) into your ~/.vimrc and you will have a good basic setup
 * **The Awesome**: Includes a ton of useful plugins, color schemes, and configurations
 
-I would, of course, recommend using the awesome version.
+
+## Overrides
+
+My overrides cover the following settings, which can be found in `my_configs.vim`:
+
+* Set line numbers by default
+* Default folded code to be expanded
 
 
 ## How to install the Awesome version?
