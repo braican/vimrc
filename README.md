@@ -2,7 +2,7 @@
 
 # The Ultimate vimrc
 
-Over the last 10 years, I have used and tweaked Vim. This configuration is the ultimate vimrc (or at least my version of it).
+This is my tweaked version of Vim, forked from https://github.com/amix/vimrc.
 
 There are two versions:
 
